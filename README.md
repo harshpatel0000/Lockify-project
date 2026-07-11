@@ -309,13 +309,7 @@ Every login triggers a **6-digit OTP** sent to the user's registered email. The 
 - 🎓 B.E. Computer Science — New LJ Institute of Engineering and Technology, Ahmedabad
 - 🔗 [LinkedIn](https://www.linkedin.com/in/harsh-patel-a7387537b/)
 
----
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 <div align="center">
 
